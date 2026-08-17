@@ -15,9 +15,7 @@ I enjoy working on real-world problems that sit at the intersection of research 
 
 ## 🔬 Publication
 
-**Gidatkar, T., Ajao, O., & Shardlow, M. (2025)**  
-*Differential robustness in transformer language models: Empirical evaluation under adversarial text attacks.*  
-📄 [arXiv:2509.09706](https://arxiv.org/abs/2509.09706)
+[Differential Robustness in Transformer Language Models: Empirical Evaluation under Adversarial Text Attacks](https://aclanthology.org/2025.ranlp-1.48/) (Gidatkar et al., RANLP 2025)
 
 ---
 
