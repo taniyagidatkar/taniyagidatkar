@@ -41,10 +41,6 @@ Deep learning image classifier comparing ResNet18 and custom CNN architectures o
 Analysed transformer model vulnerabilities across 200,000+ records — identified accuracy collapse from 48% to 3% under adversarial attack. Findings form the basis of my published arXiv paper.  
 `NLP` `Adversarial ML` `BERT` `RoBERTa` `PyTorch`
 
-### 📈 Vehicle Pricing & Market Trend Analysis *(notebook coming soon)*
-End-to-end ML pipeline on 400,000+ records using XGBoost. Improved R² from 0.36 to 0.84 through feature engineering and hyperparameter tuning.  
-`XGBoost` `Feature Engineering` `scikit-learn` `EDA` `Python`
-
 ---
 
 ## 📊 What I'm Working On
