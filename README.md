@@ -45,7 +45,6 @@ Analysed transformer model vulnerabilities across 200,000+ records — identifie
 
 ## 📊 What I'm Working On
 
-- 🎓 Completing **Google Data Analytics Professional Certificate** (Coursera)
 - 💻 Publishing notebooks from my MSc dissertation and projects
 - 🔍 Actively seeking **Skilled Worker Visa sponsored** Data Scientist / ML Engineer roles in the UK
 
