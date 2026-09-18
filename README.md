@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a Data Scientist specialising in **NLP, large language models, and adversarial robustness**. I hold an MSc in Data Science with Distinction from Manchester Metropolitan University, and I'm a co-author of a peer-reviewed paper on transformer model vulnerabilities published on arXiv in 2025.
+I'm a Data Scientist specialising in **NLP, large language models, and adversarial robustness**. I hold an MSc in Data Science with Distinction from Manchester Metropolitan University, and I'm a co-author of a peer-reviewed paper on transformer model vulnerabilities published and represented in the Varna conference in 2025.
 
 I enjoy working on real-world problems that sit at the intersection of research and production ML — turning complex, messy data into models and insights that actually matter.
 
